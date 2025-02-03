@@ -1,8 +1,8 @@
 # k0rdent service templates
-[k0rdent](https://k0rdent.github.io/docs/) supported services templates.
+[k0rdent](https://docs.k0rdent.io) supported services templates.
 
 ## Requirements
-- Working k0rdent setup ([details](https://k0rdent.github.io/docs/quick-start/installation/#requirements)).
+- Working k0rdent setup ([details](https://docs.k0rdent.io/v0.1.0/admin-installation/)).
 
 ## Dapr
 Install Service template for Dapr
